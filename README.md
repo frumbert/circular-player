@@ -3,6 +3,7 @@ proof of concept for a circular html5 audio player, using svg and plain javascri
 
 ## how it looks
 It's nothing special, but the basics are there. You can style SVG using CSS.
+
 ![](http://i.imgur.com/vHiNdcq.png)
 
 ## Why
