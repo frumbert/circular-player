@@ -1,6 +1,10 @@
 # circular-player
 proof of concept for a circular html5 audio player, using svg and plain javascript
 
+## design
+
+(screenshot)[http://i.imgur.com/vHiNdcq.png]
+
 ## Why
 
 1. I wanted to know how to do it
