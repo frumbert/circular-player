@@ -13,7 +13,7 @@ It's nothing special, but the basics are there. You can style SVG using CSS.
 3. I wanted to use SVG so that (in theory) you could have a non-round player.
 
 ## How it works
-There's a SVG on the page. I animate its stroke length based on the length of the audio file being played, using CSS3 animations.
+There's a SVG on the page. I animate its stroke length based on the length of the audio file being played, using CSS3 animations. HTML5 audio is triggered using .play() and different controls appear in the circle so you can pause, etc. When the file finishes, you have to click it to reset then click again to play.
 
 ## Requires
 A browser capable of rendering SVG and playing HTML5 audio.
